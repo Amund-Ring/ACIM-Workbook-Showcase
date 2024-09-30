@@ -6,7 +6,7 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 
 [Available in the App Store](https://apple.co/4cWbCfY)  
 
-![App Screenshot](./appstore_screenshots.png)
+![AppStore Screenshots](./appstore_screenshots.png)
 
 **Features**
 
@@ -28,6 +28,7 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 - **Push Notifications**: Custom notifications using third-party services to send reminders.
 - **Custom Design**: Built custom UI elements to enhance user experience, ensuring responsiveness and accessibility.
 - **AsyncStorage**: Local data storage to save lesson progress and user settings.
+- **In-App Purchases**: Subscription model implemented using RevenueCat to manage monthly and yearly subscriptions, giving users full access to all lessons.
 
 ---
 
@@ -35,3 +36,4 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 
 The ACIM Workbook app has been generating consistent sales, with steady growth in Monthly Recurring Revenue (MRR). Over time, the app has built a solid and loyal user base, as demonstrated by the upward trend in the MRR graph. This consistent increase reflects the app's value to users and the success of the subscription model.
 
+![RevenueCat Screenshot](./revenuecat_screenshot.png)
