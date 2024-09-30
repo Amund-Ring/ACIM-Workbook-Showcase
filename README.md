@@ -4,6 +4,8 @@
 
 The ACIM Workbook app provides users with daily lessons from the workbook section of *A Course in Miracles*. Designed to be intuitive and user-friendly, this app helps users stay consistent with their practice while offering a simple and clean interface.
 
+[Available in the App Store](https://apple.co/4cWbCfY)  
+
 ![App Screenshot](./appstore_screenshots.png)
 
 **Features**
