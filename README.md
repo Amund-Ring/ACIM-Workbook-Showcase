@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-# ACIM Workbook App 📖
+# 📖 ACIM Workbook App
 
 The ACIM Workbook app provides users with daily lessons from the workbook section of *A Course in Miracles*. Designed to be intuitive and user-friendly, this app helps users stay consistent with their practice while offering a simple and clean interface.
 
@@ -13,7 +13,7 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 
 ![AppStore Screenshots](./appstore_screenshots.png)
 
-**Features** 🌟
+## 🌟 Features
 
 - **Daily Workbook Lessons**: Users can access the full workbook lesson schedule and read lessons directly from the ACIM Workbook text.
 - **Notifications and Reminders**: Custom reminders help users stay on track with their lessons throughout the day.
@@ -25,7 +25,7 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 
 ---
 
-**Technologies Used** 🛠️
+## 🛠️ Technologies Used
 
 - **React Native**: Cross-platform development for both Android and iOS.
 - **Redux**: State management for user data and progress tracking.
@@ -38,7 +38,7 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 
 ---
 
-**App Growth** 📈
+## 📈 App Growth
 
 The ACIM Workbook app has been generating consistent sales, with steady growth in Monthly Recurring Revenue (MRR). Over time, the app has built a solid and loyal user base, as demonstrated by the upward trend in the MRR graph. This consistent increase reflects the app's value to users and the success of the subscription model.
 
