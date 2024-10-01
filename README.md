@@ -27,7 +27,7 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 
 ## 🛠️ Technologies Used
 
-- **React Native**: Cross-platform development for both Android and iOS.
+- **React Native**: JavaScript framework for building native mobile apps using JavaScript and React components.
 - **React Navigation**: Smooth and flexible screen transitions.
 - **Push Notifications**: Custom notifications using third-party services to send reminders.
 - **React Native Track Player**: Used for audio playback of lesson narrations.
