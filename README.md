@@ -2,13 +2,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)
 <br/>
 **Note**: This is a blank repository intended to showcase the README and screenshots for the ***ACIM Workbook app***.
-<br/>
-The actual source code is maintained in a private repository to safeguard the application's security and because it
-<br/>
-is not released as open-source.
+The actual source code is maintained in a private repository to safeguard the application's security and because it is not released as open-source.
 
-
-<br/>
 <br/>
 
 # 📖 ACIM Workbook App
