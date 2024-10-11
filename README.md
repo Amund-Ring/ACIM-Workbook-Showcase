@@ -12,7 +12,7 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 
 [Available in the App Store](https://apple.co/4cWbCfY)  
 
-![App Store Banner](./appstore_banner.png)
+[![App Store Banner](./appstore_banner.png)](https://apple.co/4cWbCfY)
 
 ## 🌟 Features
 
