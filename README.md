@@ -12,7 +12,7 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 
 [Available in the App Store](https://apple.co/4cWbCfY)  
 
-![AppStore Screenshots](./appstore_screenshots.png)
+![App Store Banner](./appstore_banner.png)
 
 ## 🌟 Features
 
@@ -24,6 +24,8 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 - **User-Friendly Interface**: Simple and intuitive navigation using React Native components.
 - **Subscriptions**: Monthly and yearly subscription plans are available, implemented using RevenueCat, giving full access to all lessons.
 
+---
+![AppStore Screenshots](./appstore_screenshots.png)
 ---
 
 ## 🛠️ Technologies Used
