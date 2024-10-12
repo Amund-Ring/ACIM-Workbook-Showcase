@@ -21,7 +21,7 @@ The ACIM Workbook app provides users with daily lessons from the workbook sectio
 - **Favorite Lessons**: Users can mark lessons as favorites, allowing quick access to lessons they want to revisit.
 - **Audio Narration**: Crystal-clear audio narration of each lesson, available at the tap of a button.
 - **Font Customization**: Six different font options allow users to personalize their reading experience.
-- **User-Friendly Interface**: Simple and intuitive navigation using React Native components.
+- **User-Friendly Interface**: Seamlessly swipe between sections, or jump to any chapter using the intuitive contents list.
 - **Subscriptions**: Monthly and yearly subscription plans are available, implemented using RevenueCat, giving full access to all lessons.
 
 ---
